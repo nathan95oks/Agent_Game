@@ -5,7 +5,7 @@ import websockets
 from modelo import get_agent
 
 # --- Configuración ---
-TEAM_NAME = "Betito"  # ¡Cambia esto por el nombre de tu equipo!
+TEAM_NAME = "Nutella"  # ¡Cambia esto por el nombre de tu equipo!
 SERVER_URL = "ws://127.0.0.1:8000"
 
 async def jugar():
